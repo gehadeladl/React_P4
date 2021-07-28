@@ -1,0 +1,16 @@
+.wrapper{
+    background: linear-gradient(#7b7b7b,#5ccab5);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    background-color: #2c5046;
+    height: 70%;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right:50px;
+    margin: auto;
+    width: 60%;
+}
